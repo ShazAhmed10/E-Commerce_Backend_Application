@@ -1,0 +1,21 @@
+[submodule "productservice"]
+	path = productservice
+	url = https://github.com/ShazAhmed10/ProductService
+[submodule "userservice"]
+	path = userservice
+	url = https://github.com/ShazAhmed10/UserService
+[submodule "paymentservice"]
+	path = paymentservice
+	url = https://github.com/ShazAhmed10/PaymentService
+[submodule "searchservice"]
+	path = searchservice
+	url = https://github.com/ShazAhmed10/SearchService
+[submodule "notificationservice"]
+	path = notificationservice
+	url = https://github.com/ShazAhmed10/NotificationService
+[submodule "discoveryservice"]
+	path = discoveryservice
+	url = https://github.com/ShazAhmed10/DiscoveryService
+[submodule "apigateway"]
+	path = apigateway
+	url = https://github.com/ShazAhmed10/APIGateway
